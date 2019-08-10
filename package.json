@@ -5,11 +5,12 @@
   "author": "Jessica",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "^9.4.6",
+    "autoprefixer": "^9.6.1",
     "postcss-modules": "^1.4.1"
   },
   "devDependencies": {
     "cssnano": "^4.1.8",
     "sass": "^1.16.1"
-  }
+  },
+  "repository": "https://github.com/sci-kid/boilerplate-parcel.git"
 }
